@@ -1,0 +1,42 @@
+{
+  "id": "dynastes_granti",
+  "scientific_name": "Dynastes granti",
+  "common_name": "美西白兜蟲",
+  "taxonomy": {
+    "kingdom": { "zh": "動物界", "en": "Animalia" },
+    "phylum": { "zh": "節肢動物門", "en": "Arthropoda" },
+    "class": { "zh": "昆蟲綱", "en": "Insecta" },
+    "order": { "zh": "鞘翅目", "en": "Coleoptera" },
+    "family": { "zh": "金龜子科", "en": "Scarabaeidae" },
+    "subfamily": { "zh": "兜蟲亞科", "en": "Dynastinae" },
+    "genus": { "zh": "長戟大兜蟲屬", "en": "Dynastes" },
+    "species": { "zh": null, "en": "granti" }
+  },
+  "distribution": {
+    "origin": ["北美洲"],
+    "countries": ["USA"]
+  },
+  "care_difficulty": 2,
+  "breeding": {
+    "difficulty": 3,
+    "larval_period_months": {
+      "male": 15,
+      "female": 15
+    },
+    "adult_lifespan_months": {
+      "male": 6,
+      "female": 6
+    }
+  },
+  "adult_size_mm": {
+    "male": {
+      "min": 33,
+      "max": 89
+    },
+    "female": {
+      "min": 28,
+      "max": 55
+    }
+  },
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/423291455/original.jpeg"
+}

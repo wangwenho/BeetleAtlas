@@ -1,0 +1,42 @@
+{
+  "id": "chalcosoma_atlas",
+  "scientific_name": "Chalcosoma atlas",
+  "common_name": "亞特拉斯南洋大兜蟲",
+  "taxonomy": {
+    "kingdom": { "zh": "動物界", "en": "Animalia" },
+    "phylum": { "zh": "節肢動物門", "en": "Arthropoda" },
+    "class": { "zh": "昆蟲綱", "en": "Insecta" },
+    "order": { "zh": "鞘翅目", "en": "Coleoptera" },
+    "family": { "zh": "金龜子科", "en": "Scarabaeidae" },
+    "subfamily": { "zh": "兜蟲亞科", "en": "Dynastinae" },
+    "genus": { "zh": "南洋大兜蟲屬", "en": "Chalcosoma" },
+    "species": { "zh": null, "en": "atlas" }
+  },
+  "distribution": {
+    "origin": ["東南亞"],
+    "countries": ["PHL", "MYS", "MMR", "THA"]
+  },
+  "care_difficulty": 2,
+  "breeding": {
+    "difficulty": 2,
+    "larval_period_months": {
+      "male": 13,
+      "female": 11
+    },
+    "adult_lifespan_months": {
+      "male": 8,
+      "female": 8
+    }
+  },
+  "adult_size_mm": {
+    "male": {
+      "min": 38,
+      "max": 110
+    },
+    "female": {
+      "min": 36,
+      "max": 70
+    }
+  },
+  "image": "https://static.inaturalist.org/photos/65171159/original.jpeg"
+}

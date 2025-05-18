@@ -1,0 +1,42 @@
+{
+  "id": "megasoma_mars",
+  "scientific_name": "Megasoma mars",
+  "common_name": "戰神大兜蟲",
+  "taxonomy": {
+    "kingdom": { "zh": "動物界", "en": "Animalia" },
+    "phylum": { "zh": "節肢動物門", "en": "Arthropoda" },
+    "class": { "zh": "昆蟲綱", "en": "Insecta" },
+    "order": { "zh": "鞘翅目", "en": "Coleoptera" },
+    "family": { "zh": "金龜子科", "en": "Scarabaeidae" },
+    "subfamily": { "zh": "兜蟲亞科", "en": "Dynastinae" },
+    "genus": { "zh": "象兜蟲屬", "en": "Megasoma" },
+    "species": { "zh": null, "en": "mars" }
+  },
+  "distribution": {
+    "origin": ["中南美洲"],
+    "countries": ["PER", "BRA"]
+  },
+  "care_difficulty": 1,
+  "breeding": {
+    "difficulty": 2,
+    "larval_period_months": {
+      "male": 27,
+      "female": 23
+    },
+    "adult_lifespan_months": {
+      "male": 4,
+      "female": 4
+    }
+  },
+  "adult_size_mm": {
+    "male": {
+      "min": 60,
+      "max": 134
+    },
+    "female": {
+      "min": 55,
+      "max": 90
+    }
+  },
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/307159906/original.jpeg"
+}

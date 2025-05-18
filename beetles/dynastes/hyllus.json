@@ -1,0 +1,42 @@
+{
+  "id": "dynastes_hyllus",
+  "scientific_name": "Dynastes hyllus",
+  "common_name": "墨西哥白兜蟲",
+  "taxonomy": {
+    "kingdom": { "zh": "動物界", "en": "Animalia" },
+    "phylum": { "zh": "節肢動物門", "en": "Arthropoda" },
+    "class": { "zh": "昆蟲綱", "en": "Insecta" },
+    "order": { "zh": "鞘翅目", "en": "Coleoptera" },
+    "family": { "zh": "金龜子科", "en": "Scarabaeidae" },
+    "subfamily": { "zh": "兜蟲亞科", "en": "Dynastinae" },
+    "genus": { "zh": "長戟大兜蟲屬", "en": "Dynastes" },
+    "species": { "zh": null, "en": "hyllus" }
+  },
+  "distribution": {
+    "origin": ["北美洲"],
+    "countries": ["USA"]
+  },
+  "care_difficulty": 2,
+  "breeding": {
+    "difficulty": 3,
+    "larval_period_months": {
+      "male": 13,
+      "female": 13
+    },
+    "adult_lifespan_months": {
+      "male": 8,
+      "female": 8
+    }
+  },
+  "adult_size_mm": {
+    "male": {
+      "min": 35,
+      "max": 69
+    },
+    "female": {
+      "min": 26,
+      "max": 53
+    }
+  },
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/3050765/original.JPG"
+}

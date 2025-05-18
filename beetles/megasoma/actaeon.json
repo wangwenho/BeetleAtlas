@@ -1,0 +1,42 @@
+{
+  "id": "megasoma_actaeon",
+  "scientific_name": "Megasoma actaeon",
+  "common_name": "亞克提恩大兜蟲",
+  "taxonomy": {
+    "kingdom": { "zh": "動物界", "en": "Animalia" },
+    "phylum": { "zh": "節肢動物門", "en": "Arthropoda" },
+    "class": { "zh": "昆蟲綱", "en": "Insecta" },
+    "order": { "zh": "鞘翅目", "en": "Coleoptera" },
+    "family": { "zh": "金龜子科", "en": "Scarabaeidae" },
+    "subfamily": { "zh": "兜蟲亞科", "en": "Dynastinae" },
+    "genus": { "zh": "象兜蟲屬", "en": "Megasoma" },
+    "species": { "zh": null, "en": "actaeon" }
+  },
+  "distribution": {
+    "origin": ["南美洲"],
+    "countries": ["COL", "PER", "ECU", "BRA"]
+  },
+  "care_difficulty": 2,
+  "breeding": {
+    "difficulty": 3,
+    "larval_period_months": {
+      "male": 40,
+      "female": 30
+    },
+    "adult_lifespan_months": {
+      "male": 5,
+      "female": 5
+    }
+  },
+  "adult_size_mm": {
+    "male": {
+      "min": 50,
+      "max": 133
+    },
+    "female": {
+      "min": 50,
+      "max": 82
+    }
+  },
+  "image": "https://static.inaturalist.org/photos/49841235/original.jpg"
+}

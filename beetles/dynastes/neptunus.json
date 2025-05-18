@@ -1,0 +1,66 @@
+{
+  "id": "dynastes_neptunus",
+  "scientific_name": "Dynastes neptunus",
+  "common_name": "海神大兜蟲",
+  "taxonomy": {
+    "kingdom": {
+      "zh": "動物界",
+      "en": "Animalia"
+    },
+    "phylum": {
+      "zh": "節肢動物門",
+      "en": "Arthropoda"
+    },
+    "class": {
+      "zh": "昆蟲綱",
+      "en": "Insecta"
+    },
+    "order": {
+      "zh": "鞘翅目",
+      "en": "Coleoptera"
+    },
+    "family": {
+      "zh": "金龜子科",
+      "en": "Scarabaeidae"
+    },
+    "subfamily": {
+      "zh": "兜蟲亞科",
+      "en": "Dynastinae"
+    },
+    "genus": {
+      "zh": "長戟大兜蟲屬",
+      "en": "Dynastes"
+    },
+    "species": {
+      "zh": null,
+      "en": "neptunus"
+    }
+  },
+  "distribution": {
+    "origin": ["南美洲"],
+    "countries": ["ECU", "PER", "COL", "VEN"]
+  },
+  "care_difficulty": 4,
+  "breeding": {
+    "difficulty": 4,
+    "larval_period_months": {
+      "male": 27,
+      "female": 27
+    },
+    "adult_lifespan_months": {
+      "male": 6,
+      "female": 6
+    }
+  },
+  "adult_size_mm": {
+    "male": {
+      "min": 48,
+      "max": 157
+    },
+    "female": {
+      "min": 39,
+      "max": 76
+    }
+  },
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/253537129/original.jpeg"
+}
