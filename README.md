@@ -1,4 +1,10 @@
-# 🪲 互動式甲蟲圖鑑
+![image](assets/logo.png)
+
+<div align="center">
+
+# 互動式甲蟲圖鑑
+
+</div>
 
 ## 📌 專案簡介
 
@@ -39,4 +45,3 @@ streamlit run app.py
 ![image](assets/distribution.png)
 ![image](assets/lifecycle.png)
 ![image](assets/size.png)
-
